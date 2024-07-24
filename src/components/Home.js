@@ -19,7 +19,7 @@ const Home = () => {
 
         </div>
         <div className="relative text-black max-w-2xl mt-6 md:mt-0 md:ml-6">
-          <h1 className="text-4xl md:text-5xl lg:text-5xl font-bold mb-4">Welcome to My Portfolio</h1>
+         <h1 className="text-4xl md:text-5xl lg:text-5xl font-bold mb-4 whitespace-nowrap">Welcome to My Portfolio</h1>
           <p className="text-lg md:text-2xl lg:text-2xl">
             Hello! I am a passionate software developer specializing in building web applications using modern technologies.
             This portfolio showcases my work, skills, and background. Feel free to explore and learn more about me.
