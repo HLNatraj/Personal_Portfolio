@@ -12,13 +12,13 @@ const WorkExperience = () => {
         <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-8 text-center">Work Experience</h1>
         <div className="space-y-8">
           <div className="text-lg md:text-xl lg:text-2xl mb-4 text-center">
-            <h2 className="font-bold text-2xl md:text-3xl lg:text-4xl">HCL</h2>
+            <h2 className="font-bold text-2xl md:text-3xl lg:text-4xl">techno</h2>
             <p className="italic text-lg md:text-xl lg:text-2xl">Start Date: 26-05-2023 - End Date: 28-07-2024</p>
             <p>Worked as a software engineer, developing various projects in React.</p>
           </div>
           <div className="text-lg md:text-xl lg:text-2xl mb-4 text-center">
-            <h2 className="font-bold text-2xl md:text-3xl lg:text-4xl">SCII</h2>
-            <p className="italic text-lg md:text-xl lg:text-2xl">Start Date: 01-07-2022 - End Date: 24-05-2023</p>
+            <h2 className="font-bold text-2xl md:text-3xl lg:text-4xl">abc-techno</h2>
+            <p className="italic text-lg md:text-xl lg:text-2xl">Start Date: 10-03-2020 - End Date: 24-05-2023</p>
             <p>Worked as a software engineer, developing various projects in React.</p>
           </div>
         </div>
