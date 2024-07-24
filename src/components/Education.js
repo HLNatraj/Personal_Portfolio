@@ -29,7 +29,7 @@ const Education = () => {
             <FaUniversity className="text-4xl md:text-5xl lg:text-6xl text-blue-500" />
             <div>
               <h2 className="text-2xl md:text-3xl lg:text-4xl font-semibold">PUC</h2>
-              <p className="text-lg md:text-xl lg:text-2xl font-medium">Mahesh PU College</p>
+              <p className="text-lg md:text-xl lg:text-2xl font-medium">ABC PU College</p>
               <p className="text-sm md:text-base lg:text-lg italic">[2015] - [2016]</p>
               {/* <p className="text-lg md:text-xl lg:text-2xl">[Brief Description or Achievements]</p> */}
             </div>
@@ -40,7 +40,7 @@ const Education = () => {
             <FaUniversity className="text-4xl md:text-5xl lg:text-6xl text-orange-500" />
             <div>
               <h2 className="text-2xl md:text-3xl lg:text-4xl font-semibold">SSLC</h2>
-              <p className="text-lg md:text-xl lg:text-2xl font-medium">Maruthi Vidya Kendra</p>
+              <p className="text-lg md:text-xl lg:text-2xl font-medium"> MVK</p>
               <p className="text-sm md:text-base lg:text-lg italic">[2014]</p>
               {/* <p className="text-lg md:text-xl lg:text-2xl">[Brief Description or Achievements]</p> */}
             </div>
